@@ -17,6 +17,12 @@ code {
 
 # example
 
+<style>
+.force-word-wrap pre code {
+   white-space: normal;
+   word-wrap: break-word;
+}
+</style>
 <div class="force-word-wrap">
   
 ```python
