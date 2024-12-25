@@ -11,6 +11,10 @@ curl -o pyb.py https://raw.githubusercontent.com/repossess/pybear/main/loader.py
 # showcase
 ![explorer](https://github.com/repossess/pybear/blob/main/images/explorer.png?raw=true)
 
+code {
+  white-space : pre-wrap !important;
+}
+
 # example
 
 ```python
