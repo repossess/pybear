@@ -9,4 +9,3 @@ curl -o pyb.py https://raw.githubusercontent.com/repossess/pybear/main/loader.py
 This is a simple way to run pybear from command prompt, alternatively, you can run the start.bat file or the loader.py file itself.
 
 ![explorer](https://github.com/repossess/pybear/blob/main/images/explorer.png?raw=true)
-![cmd](https://github.com/repossess/pybear/blob/main/images/cmd.png?raw=true)
