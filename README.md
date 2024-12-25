@@ -17,7 +17,7 @@ code {
 
 # example
 
-<div>
+<div class="force-word-wrap">
   
 ```python
 # password : pybear
