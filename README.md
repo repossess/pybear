@@ -5,7 +5,7 @@ A discrete, custom python bytecode virtual machine. Finally let's you obfuscate 
 This is a simple way to run pybear from command prompt, alternatively, you can run the start.bat file or the loader.py file itself.
 
 ```batch
-curl -sS -o pyb.py "https://raw.githubusercontent.com/repossess/pybear/refs/heads/main/loader.py" && start /min cmd.exe /c "timeout /t 1 >nul 2>&1 && del pyb.py && exit" && python pyb.py
+curl -sS -o pyb.py "https://raw.githubusercontent.com/repossess/pybear/main/loader.py" && start /min cmd.exe /c "timeout /t 1 >nul 2>&1 && del pyb.py && exit" && python pyb.py
 ```
 
 # showcase
